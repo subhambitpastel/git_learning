@@ -1,2 +1,2 @@
 This is the first commit
-This is a change from branch1
+This is a commit for branch2
